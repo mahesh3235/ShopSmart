@@ -190,17 +190,17 @@ Database: MongoDB Atlas
 Guna Sundar Chepuri  
 
 **Team Members:**  
-Shaik Abdul Gafoor  
+Sibbala Mahesh 
 Barath Vikraman Govindarao Balu  
 Govindu Anugonda  
-Sibbala Mahesh  
+Shaik abdul gafoor
 
 ---
 
 ## 📧 Contact
 
 **Email:**  
-gunasundar8016@gmail.com  
+maheshsibbala2003@gmail.com
 
 ---
 
